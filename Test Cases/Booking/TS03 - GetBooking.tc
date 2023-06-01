@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS03 - GetBooking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5597f92-80c3-423f-a3ca-014de7aff308</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS02 - GetBookingIds</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0dc7ee45-7522-49e0-b02e-c8138ea5b842</testCaseGuid>
+</TestCaseEntity>
